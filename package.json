@@ -1,0 +1,12 @@
+{
+  "name": "dig4639cnew",
+  "version": "1.0.0",
+  "description": "For the mobile development class and all necessary assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
